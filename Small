@@ -21,8 +21,8 @@
     end
     
     game:GetService("StarterGui"):SetCore("SendNotification",{
-        Title = "Midget",
-        Text = "This Cannot be reverted. Player must reset."
+        Title = "Obese",
+        Text = "Reset to become normal kid"
     })
 
     midget()
